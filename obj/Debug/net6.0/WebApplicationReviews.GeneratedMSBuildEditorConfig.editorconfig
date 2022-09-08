@@ -8,69 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplicationReviews
 build_property.RootNamespace = WebApplicationReviews
-build_property.ProjectDir = C:\Users\scott\source\repos\WebApplicationReviews\
+build_property.ProjectDir = c:\Users\scott\ClimbingViews\ClimbingViews\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\scott\source\repos\WebApplicationReviews
+build_property.MSBuildProjectDirectory = c:\Users\scott\ClimbingViews\ClimbingViews
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Areas/Identity/Pages/_ViewStart.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Home/Index.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Home/Privacy.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Reviews/Create.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Reviews/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Reviews/Delete.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Reviews/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Reviews/Details.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Reviews/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Reviews/Edit.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Reviews/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Reviews/Index.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Reviews/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Reviews/Search.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Reviews/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Shared/Error.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Shared/_LoginPartial.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/_ViewImports.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/_ViewStart.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/scott/source/repos/WebApplicationReviews/Views/Shared/_Layout.cshtml]
+[c:/Users/scott/ClimbingViews/ClimbingViews/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5dtgtu6q58
